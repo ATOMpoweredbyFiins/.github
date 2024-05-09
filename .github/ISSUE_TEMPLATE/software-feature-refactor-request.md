@@ -2,7 +2,7 @@
 name: Software Feature Request
 about: Got a brilliant idea? Suggest the idea or feature.
 title: ''
-labels: feature
+labels: ''
 assignees: ''
 
 ---
